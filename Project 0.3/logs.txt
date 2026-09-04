@@ -1,0 +1,36 @@
+- Log -
+Function Name: get_all_expenses
+Function arguments: ()
+Function keyword arguments: {}
+
+Error: True
+API Message: Success!
+-------
+
+- Log -
+Function Name: append_expense
+Function arguments: ('hhlloowoorld', 829.99, ['exp', 'str'])
+Function keyword arguments: {}
+
+Error: True
+API Message: Successfully Added Expense to Expense List.
+-------
+
+- Log -
+Function Name: get_all_expenses
+Function arguments: ()
+Function keyword arguments: {}
+
+Error: True
+API Message: Success!
+-------
+
+- Log -
+Function Name: search_expenses
+Function arguments: (1,)
+Function keyword arguments: {}
+
+Error: True
+API Message: Success!
+-------
+
